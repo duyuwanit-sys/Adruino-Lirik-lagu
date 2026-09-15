@@ -9,7 +9,7 @@ struct Lirik {
 };
 
 Lirik lagu[] = {
-  {"You know its true", 120, 2100}, #yang 120 itu kecepatan teksnya kalo yang 2100 itu jeda nya
+  {"You know its true", 120, 2100}, //yang 120 itu kecepatan teksnya kalo yang 2100 itu jeda nya
   {"Yeah I miss you", 120, 1500},
   {"You know its true", 120, 3000},
   {"So what if I call", 100, 1600},
@@ -60,4 +60,4 @@ void setup() {
       }
   }
 
-#created By Adiwangsa Cihuyyy
+//created By Adiwangsa Cihuyyy
